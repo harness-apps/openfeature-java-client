@@ -1,6 +1,6 @@
-# Openfeature JAVA Client for Harness Feature Flags
+# Openfeature JAVA provider for Harness Feature Flags
 
-This repository contains all the details that'll help you to develop OpenFeature JAVA client for Harness Feature Flags! 
+This repository contains all the details that'll help you to develop OpenFeature JAVA provider for Harness Feature Flags! 
 
 ## Quick Links
 - [Feature Flag Concepts](https://ngdocs.harness.io/article/7n9433hkc0-cf-feature-flag-overview)
